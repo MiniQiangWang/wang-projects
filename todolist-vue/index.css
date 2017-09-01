@@ -1,0 +1,9 @@
+.completed{
+    color: lightgrey;
+}
+.view {
+    display: none;
+}
+.edit {
+    display: none;
+}
